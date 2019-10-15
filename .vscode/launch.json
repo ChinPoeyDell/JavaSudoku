@@ -1,0 +1,65 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SudokuSolver",
+            "request": "launch",
+            "mainClass": "SudokuSolver",
+            "projectName": "TodoList_b858b913"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Sudoku",
+            "request": "launch",
+            "mainClass": "Sudoku",
+            "projectName": "TodoList_b858b913"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Sudoku",
+            "request": "launch",
+            "mainClass": "Sudoku",
+            "projectName": "TodoList_897e7d8f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TicTacToe",
+            "request": "launch",
+            "mainClass": "TicTacToe",
+            "projectName": "TodoList_897e7d8f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BinarySearch",
+            "request": "launch",
+            "mainClass": "BinarySearch",
+            "projectName": "TodoList_897e7d8f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Fibonacci",
+            "request": "launch",
+            "mainClass": "Fibonacci",
+            "projectName": "TodoList_897e7d8f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PigLatin",
+            "request": "launch",
+            "mainClass": "PigLatin",
+            "projectName": "TodoList_897e7d8f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Name",
+            "request": "launch",
+            "mainClass": "Name"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TodoList",
+            "request": "launch",
+            "mainClass": "TodoList"
+        }
+    ]
+}
